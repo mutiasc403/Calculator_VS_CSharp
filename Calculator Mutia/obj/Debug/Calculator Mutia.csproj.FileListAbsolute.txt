@@ -1,0 +1,20 @@
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\bin\Debug\Calculator Mutia.exe.config
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\bin\Debug\Calculator Mutia.exe
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\bin\Debug\Calculator Mutia.pdb
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.csprojResolveAssemblyReference.cache
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator_Mutia.Form1.resources
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator_Mutia.Properties.Resources.resources
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.csproj.GenerateResource.Cache
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.csproj.CoreCompileInputs.cache
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.exe
+C:\Users\Mutia Chairunisa\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.pdb
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\bin\Debug\Calculator Mutia.exe.config
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\bin\Debug\Calculator Mutia.exe
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\bin\Debug\Calculator Mutia.pdb
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.csprojAssemblyReference.cache
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator_Mutia.Form1.resources
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator_Mutia.Properties.Resources.resources
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.csproj.GenerateResource.cache
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.csproj.CoreCompileInputs.cache
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.exe
+D:\HDD Mutia\source\repos\Calculator Mutia\Calculator Mutia\obj\Debug\Calculator Mutia.pdb

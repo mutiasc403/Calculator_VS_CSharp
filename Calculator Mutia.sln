@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator Mutia", "Calculator Mutia\Calculator Mutia.csproj", "{014032AA-10A4-4AD9-B6C8-92F9E37C274A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{014032AA-10A4-4AD9-B6C8-92F9E37C274A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{014032AA-10A4-4AD9-B6C8-92F9E37C274A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{014032AA-10A4-4AD9-B6C8-92F9E37C274A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{014032AA-10A4-4AD9-B6C8-92F9E37C274A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E8280E6-6ABA-4795-94BD-0BD1430D2874}
+	EndGlobalSection
+EndGlobal
